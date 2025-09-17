@@ -424,7 +424,8 @@ export const portfolioData = {
       title: "معلم رياضيات ومستشار تعليمي",
       subtitle: "مربي متحمس مع أكثر من 15 عاماً من الخبرة في تعليم الرياضيات وتطوير المناهج",
       cta: "تواصل معي",
-      scrollText: "انتقل للأسفل"
+      scrollText: "انتقل للأسفل",
+      image: heroImage
     },
     
     // About Section
