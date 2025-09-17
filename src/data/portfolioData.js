@@ -1,4 +1,4 @@
-import heroImage from '../assets/imgs/heroImage.jpeg';
+import heroImage from '../assets/imgs/HeroImage.jpeg';
 export const portfolioData = {
   en: {
     // Navigation
